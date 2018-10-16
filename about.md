@@ -27,7 +27,7 @@ key: page-about
 
 ### Book Chapter
 
-- Zhou, P., and L. P. Zhang. [Composite Indicators for Sustainability Assessment: Methodological Developments.](https://doi.org/10.1007/978-981-10-7919-1_2), with P. Zhou, in Energy, Environment and Transitional Green Growth in China, published by Springer Singapore, 2018.
+- [Composite Indicators for Sustainability Assessment: Methodological Developments.](https://doi.org/10.1007/978-981-10-7919-1_2), with P. Zhou, in Energy, Environment and Transitional Green Growth in China, published by Springer Singapore, 2018.
 
 
 
