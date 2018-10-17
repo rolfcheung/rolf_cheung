@@ -3,7 +3,7 @@ layout: article
 title: Create a choropleth map using python
 author: L. P. Zhang
 show_author_profile: true
-tags: python, GIS
+tags: python GIS
 ---
 
 
