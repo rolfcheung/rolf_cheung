@@ -112,7 +112,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: gitalk # false (default), "disqus", "gitalk", "custom"
+  provider: false # false (default), "disqus", "gitalk", "custom"
 
   ## Disqus
   disqus:
@@ -121,12 +121,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 3b6e0137796d1ea5f7b3 # GitHub Application Client ID
-    clientSecret: 78f46d19c5af3f2f498f0122c8fe03bf34eee2a3 # GitHub Application Client Secret
-    repository  : rolf_cheung # GitHub repo
-    owner       : rolfcheung # GitHub repo owner
+    clientID    :  # GitHub Application Client ID
+    clientSecret:  # GitHub Application Client Secret
+    repository  :  # GitHub repo
+    owner       :  # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      rolfcheung # - your GitHub Id
+      # - your GitHub Id
 
 
 ## => Pageview
